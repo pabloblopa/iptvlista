@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0 tvg-country="BO" tvg-logo="" group-title="Undefined",ATB
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1058537?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BO" tvg-logo="https://i.imgur.com/YdiF5k6.png" group-title="Undefined",BO | TVU,TVU
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BO" tvg-logo="" group-title="Undefined",BOLIVIA TV
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1058536?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BO" tvg-logo="https://i.imgur.com/1zTLGdj.jpg" group-title="Undefined",Bolivia TV 7.2 (720p)
+https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w1684483949.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BO" tvg-logo="https://i.imgur.com/1zTLGdj.jpg" group-title="Undefined",Bolivia TV 7.2 (720p)
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BO" tvg-logo="" group-title="Undefined",Bolivision HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1058534?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BO" tvg-logo="" group-title="Undefined",Gigavision
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1058548?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BO" tvg-logo="https://i.imgur.com/eTDc0wd.jpg" group-title="Undefined",RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BO" tvg-logo="" group-title="Undefined",RTP
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1058540?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BO" tvg-logo="" group-title="Undefined",Rec Online
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1058549?checkedby:iptvcat.com
