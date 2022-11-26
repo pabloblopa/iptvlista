@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",AXN CO
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044630?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="https://i.imgur.com/7YB94Hf.png" group-title="Undefined",Avivamiento,CO | Avivamiento
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="https://i.imgur.com/7YB94Hf.png" group-title="Undefined",Avivamiento TV (720p)
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",CABLE NOTICIAS
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044631?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",CANAL CAPITAL
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044632?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",CANAL TRECE
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044633?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",CANAL TRO
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044634?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",CANAL UNO
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044635?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",CARACOL
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044637?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",CARACOL INTERNACIONAL
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044638?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",CARACOL NACIONAL
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044639?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",CITY TV
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044640?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Sport",CLARO SPORT
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044625?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="https://canalcncmedellin.com/recursos/images/logo_cnc.png" group-title="Undefined",CNC Medellín (720p)
+http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="https://i.imgur.com/Hlrdeds.png" group-title="General",Canal Capital (1080p)
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",Cundinamarca) (360p) [Not 24/7]
+https://movil.ejeserver.com/live/verteve.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Sport",DIRECTV SPORTS +
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044629?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Sport",DIRECTV SPORTS 2
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044626?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;AM;AU;BH;BG;CO;EG;GE;IQ" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Russian
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2576&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",LA KALLE
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044642?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",LAS ESTRELLAS
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044643?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",RCN
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044645?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",RCN NOVELAS
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044647?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",SENAL COLOMBIA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044648?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL;CO;MX;PA;PE" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="General;MEXICO",SEO TV (1080p)
+https://live.seo.tv.bo/live/1SEO.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL;CO;MX;PA;PE" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Undefined;MEXICO",SEO TV Novelas (1080p)
+https://live.seo.tv.bo/live/3SEO.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="https://i.imgur.com/C5IaR74.png" group-title="Undefined",Sundom TV (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCyDiTtktwmrc20Bvs_G4pow/live&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",TDI Colombia (720p) [Not 24/7]
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",TELE ANTIOQUIA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044651?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",TELE CARIBE
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044652?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Sport",TELE CARIBE DEPORTES
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044657?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",TELE MEDELLIN
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044653?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",TELE PACIFICO
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044654?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",TELEAMIGA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044655?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",TELECAFE
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044656?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",TELEVID
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044658?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",TRECE
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044660?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/co-tv-gracia.jpg" group-title="Undefined",TVGracia (720p)
+https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telepacifico_co.png" group-title="Undefined",Telepacífico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",Valle del Cauca) (540p) [Not 24/7]
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Sport",WIN SPORTS
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044662?checkedby:iptvcat.com
